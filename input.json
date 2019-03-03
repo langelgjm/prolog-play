@@ -1,0 +1,8 @@
+{
+  "foo": "bar",
+  "baz": {
+    "foobar": null,
+    "aDate": "2000-01-01"
+  },
+  "aTimestamp": "2000-12-31T23:59:59.999Z"
+}
